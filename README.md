@@ -17,7 +17,7 @@ This GitHub Action delivers specified [`solc`] release for a solc network.
 Download the latest version of solc
 
 ```yaml
-- name: get solce
+- name: get solc
   uses: pontem-network/get-solc@master
 ```
 
